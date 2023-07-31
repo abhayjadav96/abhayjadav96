@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abhayjadav96
-- 👀 I’m interested in Full-Stack Web Development
-- 🌱 I’m currently learning HTML, CSS, Javascript, ReactJS, NodeJS, MongoDB, Bootcamp and NextJS
-- 💞️ I’m looking forward to work as a Web Developer
+- 👀 Web Applications 
+- 🌱 Learning HTML, CSS, Javascript, ReactJS, NodeJS, MongoDB, Bootcamp and NextJS
 - 📫 Please feel free to reach me via  Email: abhayjadav.it@gmail.com, Website: https://jadav22.tech/ 
 
 <!---
