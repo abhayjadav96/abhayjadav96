@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @abhayjadav96
 - 👀 Web Applications 
 - 🌱 Learning HTML, CSS, Javascript, ReactJS, NodeJS, MongoDB, Bootcamp and NextJS
-- 📫 Please feel free to reach me via  Email: abhayjadav.it@gmail.com, Website: https://jadav22.tech/ 
+- 📫 Please feel free to reach me via  Email: abhayjadav.it@gmail.com, Website: https://jadav22.tech/
+- Project: https://abhayjadav96.github.io/Jad-Design-Website-Project-HTML-CSS/
+- Project: https://abhayjadav96.github.io/HTML-CSS-Portfolio/
+- 
 
 <!---
 abhayjadav96/abhayjadav96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
