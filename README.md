@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jadav
 - 👀 Web Applications 
-- 🌱 Learning HTML, CSS, Javascript, ReactJS, NodeJS, MongoDB, Bootcamp and NextJS
+- 🌱 HTML, CSS, Javascript, ReactJS, NodeJS, MongoDB, Bootcamp and NextJS
 - 📫 Please feel free to reach me via  Email: abhayjadav.it@gmail.com, Website: https://jadav22.tech/
 - Project1: https://abhayjadav96.github.io/Jad-Design-Website-Project-HTML-CSS/
 - Project2: https://abhayjadav96.github.io/HTML-CSS-Portfolio/
