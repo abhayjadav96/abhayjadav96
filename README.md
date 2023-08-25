@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhayjadav96
+- 👋 Hi, I’m Jadav
 - 👀 Web Applications 
 - 🌱 Learning HTML, CSS, Javascript, ReactJS, NodeJS, MongoDB, Bootcamp and NextJS
 - 📫 Please feel free to reach me via  Email: abhayjadav.it@gmail.com, Website: https://jadav22.tech/
