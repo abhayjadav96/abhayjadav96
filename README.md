@@ -3,11 +3,12 @@
 - 🌱 HTML, CSS, Javascript, ReactJS, NodeJS, MongoDB, Bootcamp and NextJS
 - 📫 Please feel free to reach me via  Email: abhayjadav.it@gmail.com, Website: https://jadav22.tech/
 
--On Going Project: **   DESKTOP VERSION ONLY ** https://abhayjadav96.github.io/Project-4-_-Travel_Website/
+-On Going Project: **   DESKTOP VERSION ONLY ** 
 
-- Project1: https://abhayjadav96.github.io/Jad-Design-Website-Project-HTML-CSS/
-- Project2: https://abhayjadav96.github.io/HTML-CSS-Portfolio/
-- Project3: https://abhayjadav96.github.io/Project-3/
+- Project1: https://abhayjadav96.github.io/Project-4-_-Travel_Website/
+- Project2: https://abhayjadav96.github.io/Jad-Design-Website-Project-HTML-CSS/
+- Project3: https://abhayjadav96.github.io/HTML-CSS-Portfolio/
+- Project4: https://abhayjadav96.github.io/Project-3/
 
 <!---
 abhayjadav96/abhayjadav96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
