@@ -3,7 +3,7 @@
 - 🌱 HTML, CSS, Javascript, ReactJS, NodeJS, MongoDB, Bootcamp and NextJS
 - 📫 Please feel free to reach me via  Email: abhayjadav.it@gmail.com, Website: https://jadav22.tech/
 
--On Going Project: **   DESKTOP VERSION ONLY ** 
+-On Going Project: **   DESKTOP VERSION ONLY ** https://github.com/abhayjadav96/Filter-Project-JS
 
 - Project1: https://abhayjadav96.github.io/Project-4-_-Travel_Website/
 - Project2: https://abhayjadav96.github.io/Jad-Design-Website-Project-HTML-CSS/
