@@ -5,7 +5,7 @@
 
 -On Going Project: https://github.com/abhayjadav96/CRUD_Operations 
 
-https://github.com/abhayjadav96/Filter-Project-JS
+JavaScript Projects: https://github.com/abhayjadav96/Filter-Project-JS
 
 - Project1: https://abhayjadav96.github.io/Project-4-_-Travel_Website/  **   DESKTOP VERSION ONLY **
 - Project2: https://abhayjadav96.github.io/Jad-Design-Website-Project-HTML-CSS/   **   DESKTOP VERSION ONLY **
