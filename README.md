@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jadav
 - 👀 Web Applications 
 - 🌱 HTML, CSS, Javascript, ReactJS, NodeJS, MongoDB, Bootcamp and NextJS
-- 📫 Please feel free to reach me via  Email: abhayjadav.it@gmail.com, Website: https:https://abhayjadav96.github.io/New_Portfolio/
+- 📫 Please feel free to reach me via  Email: abhayjadav.it@gmail.com
 
 -On Going Project:  https://github.com/abhayjadav96/CRUD_Operations 
 
